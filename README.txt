@@ -20,5 +20,5 @@ For Run command : FilePath username password RepositoryUrl ContributorUsername
 
 run command Something like : 
 
-php index.php admin admin123 https://github.com/manish13k/github-management ContributorUsername
+php index.php admin admin123 https://github.com/manish13k/github-management-console ContributorUsername
 
